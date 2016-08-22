@@ -67,6 +67,7 @@ public class Tile {
     //This function executes whenever a player steps on a tile
     public void step(){
         this.hasBeenStepped = true;
+        //Test comment for git
         updateButton();
     }
 
